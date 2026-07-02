@@ -1,0 +1,9 @@
+# Requirements
+numpy>=1.20.0
+pandas>=1.2.0
+matplotlib>=3.3.0
+astropy>=4.2
+astroquery>=0.4.3
+specutils>=1.2.0
+lineid_plot>=0.8.0
+notebook>=6.4.0
